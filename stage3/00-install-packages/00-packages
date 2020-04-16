@@ -14,3 +14,4 @@ fonts-liberation2
 obconf
 arandr
 raspberrypi-net-mods raspberrypi-ui-mods
+dnsmasq hostapd
