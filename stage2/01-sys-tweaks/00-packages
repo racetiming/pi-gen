@@ -28,3 +28,5 @@ vl805fw
 ntfs-3g
 pciutils
 rpi-eeprom
+fbi
+python3-pip python3-tk python3-psutil python3-pil python3-pil.imagetk
